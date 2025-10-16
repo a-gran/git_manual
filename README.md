@@ -6,50 +6,50 @@
 
 ## 📋 Содержание
 
-1. [git init](#1--git-init)
-2. [git add](#2--git-add)
-3. [git commit](#3--git-commit)
-4. [git push](#4--git-push)
-5. [git pull](#5--git-pull)
-6. [git remote](#6--git-remote)
-7. [git branch](#7--git-branch)
-8. [git fetch](#8--git-fetch)
-9. [git checkout](#9-️-git-checkout)
-10. [git merge](#10--git-merge)
-11. [git status](#11--git-status)
-12. [git reset](#12-️-git-reset)
-13. [git clone](#13--git-clone)
-14. [git log](#14--git-log)
-15. [git diff](#15--git-diff)
-16. [git stash](#16--git-stash)
-17. [git tag](#17-️-git-tag)
-18. [git rebase](#18--git-rebase)
-19. [git cherry-pick](#19--git-cherry-pick)
-20. [git revert](#20--git-revert)
-21. [git rm](#21-️-git-rm)
-22. [git mv](#22--git-mv)
-23. [git show](#23--git-show)
-24. [git config](#24-️-git-config)
-25. [git blame](#25--git-blame)
-26. [git clean](#26-️-git-clean)
-27. [git reflog](#27--git-reflog)
-28. [git switch](#28--git-switch)
-29. [git restore](#29--git-restore)
-30. [git shortlog](#30--git-shortlog)
-31. [git grep](#31--git-grep)
-32. [git bisect](#32--git-bisect)
-33. [git submodule](#33--git-submodule)
-34. [git worktree](#34--git-worktree)
-35. [git archive](#35--git-archive)
-36. [git describe](#36--git-describe)
-37. [git notes](#37--git-notes)
-38. [git apply](#38--git-apply)
-39. [git format-patch](#39--git-format-patch)
-40. [git gc](#40--git-gc)
+1. [git init](#git-init)
+2. [git add](#git-add)
+3. [git commit](#git-commit)
+4. [git push](#git-push)
+5. [git pull](#git-pull)
+6. [git remote](#git-remote)
+7. [git branch](#git-branch)
+8. [git fetch](#git-fetch)
+9. [git checkout](#git-checkout)
+10. [git merge](#git-merge)
+11. [git status](#git-status)
+12. [git reset](#git-reset)
+13. [git clone](#git-clone)
+14. [git log](#git-log)
+15. [git diff](#git-diff)
+16. [git stash](#git-stash)
+17. [git tag](#git-tag)
+18. [git rebase](#git-rebase)
+19. [git cherry-pick](#git-cherry-pick)
+20. [git revert](#git-revert)
+21. [git rm](#git-rm)
+22. [git mv](#git-mv)
+23. [git show](#git-show)
+24. [git config](#git-config)
+25. [git blame](#git-blame)
+26. [git clean](#git-clean)
+27. [git reflog](#git-reflog)
+28. [git switch](#git-switch)
+29. [git restore](#git-restore)
+30. [git shortlog](#git-shortlog)
+31. [git grep](#git-grep)
+32. [git bisect](#git-bisect)
+33. [git submodule](#git-submodule)
+34. [git worktree](#git-worktree)
+35. [git archive](#git-archive)
+36. [git describe](#git-describe)
+37. [git notes](#git-notes)
+38. [git apply](#git-apply)
+39. [git format-patch](#git-format-patch)
+40. [git gc](#git-gc)
 
 ---
 
-## 1. 🎯 git init
+## 1. git init
 
 **Назначение:** Инициализирует новый Git-репозиторий в текущей директории.
 
@@ -1281,14 +1281,13 @@ vendor/
 - [Pro Git Book](https://git-scm.com/book/ru/v2)
 - [GitHub Guides](https://guides.github.com/)
 - [GitLab Documentation](https://docs.gitlab.com/)
+- [Визуализация в Git. Подборка популярных решений](https://habr.com/ru/articles/741016/)
 
 ---
 
 ## 📝 Заключение
 
-Эти команды составляют основу для эффективной работы с системой контроля версий Git.
-
-Освоив их, вы сможете:
+Эти команды составляют основу для эффективной работы с системой контроля версий Git. Освоив их, вы сможете:
 
 ✅ Создавать и управлять репозиториями
 ✅ Фиксировать изменения в коде
