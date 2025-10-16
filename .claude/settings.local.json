@@ -4,7 +4,8 @@
       "Bash(awk:*)",
       "Bash(powershell -Command \"(Get-Content README.md -Raw -Encoding UTF8) -replace ''## (\\d+)\\. [^\\s]+ (git [^\\r\\n]+)'', ''## $1. $2'' | Set-Content README.md -Encoding UTF8 -NoNewline\")",
       "Bash(git restore:*)",
-      "Bash(python fix_headers.py:*)"
+      "Bash(python fix_headers.py:*)",
+      "Bash(python fix_links.py:*)"
     ],
     "deny": [],
     "ask": []
