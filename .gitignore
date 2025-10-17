@@ -1,2 +1,4 @@
 claude_instructions.md
 *.jpg
+.claude
+.idea
